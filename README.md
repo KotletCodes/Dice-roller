@@ -1,0 +1,1 @@
+Created a dice roller for tabletop games using windows forms on visual studio, it takes an input in the form of an integer as the number of dice it should roll(min 1) then each click on the name of a dice rolls that respective dice.
